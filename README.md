@@ -23,21 +23,28 @@ https://www.kaggle.com/giovanimachado/hate-speech-bert-cnn-and-bert-mlp-in-tenso
 https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
 ## Which file is what
-Cleaning.ipynb 是把收集到的 dataset 做了完整的clean并且做了EDA
+Cleaning.ipynb
+把收集到的 dataset 做了完整的clean并且做了EDA
 
-CleaningClass.py 是写的class用来clean dataset
+CleaningClass.py
+写的class用来cleaning dataset
 
-EUCleaned.csv 和 HKCleaned.csv 是收集到的data
+EUCleaned.csv 和 HKCleaned.csv 
+收集到并清理完成的data
 
-MLModels.ipynb 是用来build model用的file
+MLModels.ipynb 
+用来build model用的file
 
-MongoDB.ipynb 是用来收集数据用的file
+MongoDB.ipynb 
+用来收集数据用的file
 
 忽视NewData_Cleaning.ipynb
 
-TrainingDataSetPrep.ipynb 是clean Kaggle 上找到的training dataset 并 EDA
+TrainingDataSetPrep.ipynb 
+用来cleaning Kaggle 上找到的training dataset 并 EDA
 
-cleanedTrain.csv 是清理完的 Kaggle 上的Training dataset
+cleanedTrain.csv 
+清理完的 Kaggle 上的Training dataset
 
 
 
