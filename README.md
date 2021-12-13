@@ -14,6 +14,8 @@ https://github.com/vedant-95/Twitter-Hate-Speech-Detection/blob/master/Final%20w
 
 https://towardsdatascience.com/detecting-hate-tweets-twitter-sentiment-analysis-780d8a82d4f6
 
+上面两个是我正在做的
+
 https://www.kaggle.com/jatingoyal123/hate-offensive-language
 
 https://www.kaggle.com/giovanimachado/hate-speech-bert-cnn-and-bert-mlp-in-tensorflow
