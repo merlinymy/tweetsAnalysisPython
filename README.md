@@ -27,5 +27,5 @@ cleanedTrain.csv 是清理完的 Kaggle 上的Training dataset
 
 # 要做的
 做 ML models 用 ‘cleanedTrain.csv’ 这个文件。
-EUCleaned 和 HKCleaned 是我们自己收集的data
+EUCleaned 和 HKCleaned 是我们自己收集的data.
 做好 models 后把 EUCleaned 和 HKCleaned datasets 作为testing datasets 放到model里面
