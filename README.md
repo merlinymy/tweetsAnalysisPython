@@ -1,7 +1,7 @@
 # Tweets_Analysis_with_Python
 
 ## Testing Data are Collected from Twitter
-data collecting code is modified from https://github.com/merlinymy/Twitter-API-v2-sample-code 
+data collecting code is modified from https://github.com/xbwei/Data-Mining-on-Social-Media/blob/master/MongoDB/Collect_Tweets_into_MongoDB.ipynb 
 ## Training dataset is from Kaggle:
 https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
