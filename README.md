@@ -1,4 +1,4 @@
-# tweetsAnalysisPython
+# Tweets_Analysis_Python
 
 ## Testing Data are Collected from Twitter
 data collecting code is modified from https://github.com/merlinymy/Twitter-API-v2-sample-code 
