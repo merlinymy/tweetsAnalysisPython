@@ -23,7 +23,7 @@ https://www.kaggle.com/giovanimachado/hate-speech-bert-cnn-and-bert-mlp-in-tenso
 https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
 ## Which file is what
-Cleaning.ipynb
+Cleaning.ipynb \n
 把收集到的 dataset 做了完整的clean并且做了EDA
 
 CleaningClass.py
