@@ -9,6 +9,16 @@ https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 做 ML models 用 ‘cleanedTrain.csv’ 这个文件。
 EUCleaned 和 HKCleaned 是我们自己收集的data.
 做好 models 后把 EUCleaned 和 HKCleaned datasets 作为testing datasets 放到model里面
+### model building 相关链接：
+https://github.com/vedant-95/Twitter-Hate-Speech-Detection/blob/master/Final%20working%20code.ipynb
+
+https://towardsdatascience.com/detecting-hate-tweets-twitter-sentiment-analysis-780d8a82d4f6
+
+https://www.kaggle.com/jatingoyal123/hate-offensive-language
+
+https://www.kaggle.com/giovanimachado/hate-speech-bert-cnn-and-bert-mlp-in-tensorflow
+
+https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
 ## Which file is what
 Cleaning.ipynb 是把收集到的 dataset 做了完整的clean并且做了EDA
