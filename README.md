@@ -15,7 +15,7 @@ https://www.kaggle.com/jatingoyal123/hate-offensive-language
 
 https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
-## Which file is white
+## Which file is whate
 #### EUFinalResult && HKFinalResult  
 Final results
 
